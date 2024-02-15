@@ -24,14 +24,14 @@
   "brands": [
     {
       "src": "/images/brand-1.svg",
-      "alt": "Logolpsum"
+      "alt": "lol"
     },
     {
       "src": "/images/brand-2.svg",
       "alt": "Logolpsum"
     },
     {
-      "src": "/images/brand-1.svg",
+      "src": "/images/brand-3.svg",
       "alt": "Logolpsum"
     },
     {
@@ -59,10 +59,10 @@
     "imgSrc": "/images/about-banner.jpeg",
     "miniTitle": "About Us",
     "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
-    "description": "I'm a frontend developer skilled in crafting visually appealing and functional interfaces using HTML, CSS, and JavaScript. My focus is on delivering seamless user experiences through collaboration and staying updated on industry trends. I specialize in frontend development, creating visually appealing and user-friendly interfaces using HTML, SASS, JavaScript and React-JS. With a keen eye for design and a focus on functionality, I ensure seamless experiences across different devices. Collaboration is key as I work closely with designers and backend developers to bring projects to life. I am committed to staying updated on the latest trends and techniques to deliver high-quality solutions. Let's work together to elevate your digital presence and create impactful user experiences.",
+    "description": "I'm a frontend developer skilled in crafting visually appealing and functional interfaces using HTML, SCSS, JavaScript and React-JS. My focus is on delivering seamless user experiences through collaboration and staying updated on industry trends. I specialize in frontend development, creating visually appealing and user-friendly interfaces using HTML, SASS, JavaScript and React-JS. With a keen eye for design and a focus on functionality, I ensure seamless experiences across different devices. Collaboration is key as I work closely with designers and backend developers to bring projects to life. I am committed to staying updated on the latest trends and techniques to deliver high-quality solutions. Let's work together to elevate your digital presence and create impactful user experiences.",
     "funfacts": [
       {
-        "title": "Google Review",
+        "title": "Client Review",
         "number": 100
       },
       {
@@ -239,7 +239,7 @@
   "testimonial": {
     "sectionHeading": {
       "miniTitle": "Testimonial",
-      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+      "title": "Over <span>180+</span> <br /> PEOPLE TRUST ME"
     },
     "allTestimonial": [
       {
