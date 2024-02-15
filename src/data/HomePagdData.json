@@ -1,0 +1,276 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.jpeg",
+    "name": "Hamza Malik",
+    "heading": "Hay! I’m Hafiz Malik Hamza",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
+    "description": " I'm a frontend developer skilled in crafting visually appealing and functional interfaces using HTML, SASS, JavaScript and React-JS. My focus is on delivering seamless user experiences through collaboration and staying updated on industry trends.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "ri:github-line" ,
+      "iconBgClass": "facebook",
+      "href": "https://github.com/Hamza3267"
+    },
+    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "https://65c1e49b9b858150abce075c--celebrated-clafoutis-edfe14.netlify.app/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/malik-hamza-imran"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.jpeg",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
+    "description": "I'm a frontend developer skilled in crafting visually appealing and functional interfaces using HTML, CSS, and JavaScript. My focus is on delivering seamless user experiences through collaboration and staying updated on industry trends. I specialize in frontend development, creating visually appealing and user-friendly interfaces using HTML, SASS, JavaScript and React-JS. With a keen eye for design and a focus on functionality, I ensure seamless experiences across different devices. Collaboration is key as I work closely with designers and backend developers to bring projects to life. I am committed to staying updated on the latest trends and techniques to deliver high-quality solutions. Let's work together to elevate your digital presence and create impactful user experiences.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 100
+      },
+      {
+        "title": "Years Experience",
+        "number": 1
+      },
+      {
+        "title": "Awward Winning",
+        "number": 1
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.png",
+        "title": " HandyMan Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for HandyMan Service",
+          "description": "The handyman service website offers a user-friendly interface, making it easy to navigate and find services. The layout is clean, with clear categorization of services and pricing information readily accessible. The inclusion of testimonials and before-and-after images adds credibility and showcases the quality of work. However, the lack of a detailed FAQ section or live chat support may leave some users with unanswered questions. The booking process is straightforward, with an intuitive form for requesting services. Mobile responsiveness ensures a seamless experience across devices. The website could benefit from additional customization options for services to cater to diverse needs. Overall, it effectively presents the services offered and instills trust in potential customers. Further improvements in customer support and customization options could enhance the user experience.",
+          "type": "Website",
+          "langages": "React-Js,  SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.png",
+        "title": "Electric Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Electric Service",
+          "description": "The electric service website features a professional design, instilling confidence in visitors. Services are clearly outlined with detailed descriptions and pricing transparency. Testimonials and certifications enhance credibility, fostering trust with potential customers. The site's navigation is intuitive, allowing users to easily find information and contact details. However, the lack of real-time service availability updates may lead to frustration for some users. The booking process is straightforward, with a user-friendly interface for scheduling appointments. Mobile responsiveness ensures accessibility across devices, improving user experience. Additional visual aids or infographics could enhance understanding of complex services or processes. Overall, the website effectively communicates expertise and reliability, with room for minor enhancements to further streamline the user journey.",
+          "type": "Website",
+          "langages": " React-JS, SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.png",
+        "title": "Dashboard Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Job Hunting Dashboard",
+          "description": "The job hunt dashboard website offers a clean and modern design, facilitating easy navigation for users. Key features such as job search, saved listings, and application tracking are prominently displayed. The dashboard layout is intuitive, allowing users to manage their job search efficiently. Integration with job search engines and company career portals enhances the platform's utility. However, personalized job recommendations or career resources could enrich the user experience. The inclusion of a resume builder or interview preparation tools would add value to job seekers. Mobile responsiveness ensures accessibility on various devices, optimizing usability. Social sharing options could foster community engagement and networking opportunities. Overall, the website provides a solid foundation for job seekers, with potential for additional features to enhance its appeal.",
+          "type": "Website",
+          "langages": "React-JS, SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.png",
+        "title": "Cleaner Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Cleaner Service",
+          "description": "The cleaner website page boasts a sleek and minimalist design, fostering a sense of professionalism and trust. Service offerings are clearly presented, accompanied by concise descriptions and transparent pricing. Testimonials and before-and-after photos effectively showcase the quality of work and build credibility. The booking process is straightforward, with a user-friendly interface for scheduling appointments. However, the absence of real-time availability updates may lead to potential customer frustration. Mobile responsiveness ensures seamless access across devices, enhancing user experience. Integration of a live chat feature could provide immediate support and address customer inquiries. Additional visual elements or interactive features could further engage visitors and differentiate the site. Overall, the website offers a polished presentation of services, with opportunities for minor enhancements to optimize usability and customer satisfaction.",
+          "type": "Website",
+          "langages": "React-JS, SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.png",
+        "title": "ByCycle Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for ByCycle Service",
+          "description": "The bicycle service website features a clean and intuitive design, enhancing user experience. Services are well-organized, with clear descriptions and pricing details provided. Testimonials and customer reviews contribute to credibility and trustworthiness. The booking process is streamlined, with a user-friendly interface for scheduling appointments. However, real-time availability updates could improve customer convenience and satisfaction. Mobile responsiveness ensures accessibility across various devices, optimizing usability. Integration of educational resources or maintenance tips would add value for users. Additional customization options for service packages could cater to diverse needs and preferences. Overall, the website effectively communicates expertise and reliability, with potential for minor enhancements to further enhance user engagement.",
+          "type": "Website",
+          "langages": "React-Js,  SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/pp.png",
+        "title": "Business Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Business Development",
+          "description": "The business development service website exudes professionalism with its sleek design and clear layout. Services are well-delineated, accompanied by comprehensive descriptions and transparent pricing structures. Testimonials and case studies bolster credibility and highlight successful partnerships. The inquiry process is seamless, with a user-friendly interface for submitting queries or requests. However, real-time chat support could enhance responsiveness and address immediate inquiries. Mobile responsiveness ensures accessibility across devices, facilitating ease of use for clients on-the-go. Integration of industry insights or thought leadership articles would add value for prospective clients. Additional visual elements or interactive features could enhance engagement and retention. Overall, the website effectively showcases expertise in business development, with opportunities for minor enhancements to optimize user experience and engagement.",
+          "type": "Website",
+          "langages": "React-JS, SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/todo.png",
+        "title": "Todo Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Todo List",
+          "description": "The todo list website offers a simplistic yet functional design, prioritizing ease of use for users. Tasks are easily added, edited, and organized, enhancing productivity and efficiency. However, the absence of advanced features such as subtasks or recurring tasks may limit its utility for some users. Integration with calendars or reminders could improve task management and timeliness. The website's responsive design ensures seamless access on various devices, optimizing usability. Collaboration features, such as shared lists or team tasks, would enhance its versatility for group projects. Aesthetic customization options could personalize the user experience and improve engagement. Overall, the website provides a straightforward solution for managing tasks, with potential for expansion to cater to diverse user needs.",
+          "type": "Website",
+          "langages": "React-Js,  SCSS",
+          "platform": "Visual Studio",
+          "country": "Pakistan",
+          "url": "www.example.com"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/web.jpg",
+        "title": "Website Design",
+        "subTitle": "Website design page harmonizes aesthetics and usability to deliver engaging and intuitive online experiences.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/webbb.jpg",
+        "title": "Website Design",
+        "subTitle": "Website design page harmonizes aesthetics and usability to deliver engaging and intuitive online experiences.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/seo.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "SEO marketing involves optimizing online content and strategies to increase visibility and drive organic traffic to websites effectively.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/design.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Graphic design for web pages integrates aesthetics and functionality to create visually captivating and user-friendly online experiences.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "SprintX ",
+        "duration": "OCT 2023 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "SprintX Software House is a leading provider of web services renowned for its innovative solutions and client-centric approach. With a dedicated team of experienced developers and designers, SprintX excels in delivering cutting-edge websites tailored to meet the unique needs of each client. Their commitment to excellence is evident in their attention to detail and passion for creating functional and visually stunning web experiences. Whether it's e-commerce platforms, corporate websites, or custom web applications, SprintX ensures top-notch quality and timely delivery. Their agile development methodology ensures adaptability and responsiveness throughout the project lifecycle. Clients trust SprintX for their reliability, expertise, and ability to transform ideas into reality. With a focus on user experience and scalability, SprintX empowers businesses to thrive in the digital landscape. Partnering with SprintX means unlocking the full potential of your online presence and staying ahead in the competitive market. Experience the difference with SprintX Software House today."
+      }
+ 
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Working with Hamza was an absolute pleasure! His expertise in web design truly shone through as he effortlessly transformed my vision into a stunning reality. Not only did he deliver a website that exceeded my expectations, but his professionalism and attention to detail made the entire process smooth and enjoyable. I highly recommend Hamza to anyone seeking a talented and reliable web designer",
+        "avatarImg": "/images/murad.jpg",
+        "avatarName": "Usman Murad",
+        "avatarCompany": ""
+      },
+      {
+        "reviewText": "Hamza is an exceptional web designer who exceeded all my expectations. With his keen eye for design and impeccable attention to detail, he brought my website vision to life in a way that truly captured the essence of my brand. His professionalism, prompt communication, and willingness to go above and beyond made the entire process a breeze. I'm thrilled with the end result and would highly recommend Hamza to anyone in need of top-notch web design services",
+        "avatarImg": "/images/abd.jpeg",
+        "avatarName": "Abdullah",
+        "avatarCompany": ""
+      },
+      {
+        "reviewText": "Working with Hamza was an absolute pleasure! His creativity and technical expertise in web design are unmatched. From the initial concept to the final product, he demonstrated a remarkable ability to understand my needs and translate them into a visually stunning website. Hamza's professionalism, attention to detail, and commitment to delivering excellence made the entire process seamless and enjoyable. I couldn't be happier with the outcome and highly recommend Hamza to anyone looking for a talented and reliable web designer",
+        "avatarImg": "/images/fhd.jpeg",
+        "avatarName": "Fahad",
+        "avatarCompany": ""
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.jpeg",
+    "contactInfo": [
+      { "title": " E-mail address", "email": "hafizhamza78699@gmail.com" },
+      { "title": "Contact No.", "tel": "+92 300 471-2274" }
+    ]
+  }
+}
