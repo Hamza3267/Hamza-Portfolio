@@ -1,6 +1,6 @@
 {
   "hero": {
-    "imgUrl": "/images/home-banner.jpeg",
+    "imgUrl": "/images/hamzapic2.jpg",
     "name": "Hamza Malik",
     "heading": "Hay! I’m Hafiz Malik Hamza",
     "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
@@ -56,7 +56,7 @@
     }
   ],
   "about": {
-    "imgSrc": "/images/about-banner.jpeg",
+    "imgSrc": "/images/hamzapic1.jpg",
     "miniTitle": "About Us",
     "title": "I AM AVAILABLE FOR <span>UI UX DESIGN</span> PROJECTS",
     "description": "I'm a frontend developer skilled in crafting visually appealing and functional interfaces using HTML, SCSS, JavaScript and React-JS. My focus is on delivering seamless user experiences through collaboration and staying updated on industry trends. I specialize in frontend development, creating visually appealing and user-friendly interfaces using HTML, SASS, JavaScript and React-JS. With a keen eye for design and a focus on functionality, I ensure seamless experiences across different devices. Collaboration is key as I work closely with designers and backend developers to bring projects to life. I am committed to staying updated on the latest trends and techniques to deliver high-quality solutions. Let's work together to elevate your digital presence and create impactful user experiences.",
